@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'SuperFunky';
+  src: url('./assets/fonts/SuperFunky.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+.hero-title {
+  font-family: 'SuperFunky', sans-serif;
+}
